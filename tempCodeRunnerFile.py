@@ -1,0 +1,1 @@
+pygame.display.set_caption("Adding image and background image")
